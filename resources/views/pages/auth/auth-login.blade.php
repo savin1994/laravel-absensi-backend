@@ -10,7 +10,7 @@
 @section('main')
     <div class="card card-primary">
         <div class="card-header">
-            <h4>Login</h4>
+            <h4>Absensi</h4>
         </div>
 
         <div class="card-body">
@@ -52,7 +52,7 @@
         </div>
     </div>
     <div class="text-muted mt-5 text-center">
-        Don't have an account? <a href="auth-register.html">Create One</a>
+       Datang Tepat Waktu, Pulang Tepat Waktu
     </div>
 @endsection
 
